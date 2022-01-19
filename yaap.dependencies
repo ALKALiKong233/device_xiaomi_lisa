@@ -22,5 +22,11 @@
     "repository": "ArrowOS-Devices/android_packages_apps_GCamGOPrebuilt",
     "target_path": "packages/apps/GCamGOPrebuilt",
     "branch": "arrow-11.0"
+  },
+  {
+    "remote": "github",
+    "repository": "ALKALiKong233/vendor_xiaomi_lisa-extra",
+    "target_path": "vendor/xiaomi/lisa-extra",
+    "branch": "twelve"
   }
 ]
