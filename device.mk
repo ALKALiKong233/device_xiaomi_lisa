@@ -103,11 +103,7 @@ PRODUCT_PACKAGES += \
     android.hidl.manager@1.0
 
 # IFAA manager
-PRODUCT_PACKAGES += \
-    org.ifaa.android.manager
-
-PRODUCT_BOOT_JARS += \
-    org.ifaa.android.manager
+include vendor/xiaomi/lisa-extra/ifaa.mk
 
 # Kernel
 PRODUCT_COPY_FILES += \
