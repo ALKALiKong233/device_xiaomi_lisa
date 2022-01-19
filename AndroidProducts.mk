@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_lisa.mk
+    $(LOCAL_DIR)/yaap_lisa.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_lisa-eng \
-    aosp_lisa-userdebug \
-    aosp_lisa-user
+    yaap_lisa-eng \
+    yaap_lisa-userdebug \
+    yaap_lisa-user

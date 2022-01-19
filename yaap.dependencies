@@ -1,9 +1,9 @@
 [
   {
     "remote": "gitlab",
-    "repository": "ganeshi4u/android_device_xiaomi_lisa-prebuilt",
+    "repository": "ALKALiKong/device_xiaomi_lisa-prebuilt",
     "target_path": "device/xiaomi/lisa-prebuilt",
-    "branch": "arrow-11.0"
+    "branch": "twelve"
   },
   {
     "remote": "github",
@@ -13,9 +13,9 @@
   },
   {
     "remote": "gitlab",
-    "repository": "ganeshi4u/android_vendor_xiaomi_lisa",
+    "repository": "ALKALiKong/android_vendor_xiaomi_lisa",
     "target_path": "vendor/xiaomi/lisa",
-    "branch": "arrow-11.0-oem-vendor"
+    "branch": "twelve"
   },
   {
     "remote": "github",

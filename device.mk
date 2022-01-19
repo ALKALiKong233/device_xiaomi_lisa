@@ -146,7 +146,7 @@ PRODUCT_PACKAGES += \
     TelephonyOverlayLisa \
     WifiResOverlayLisa
 
-ifneq ($(ARROW_GAPPS), true)
+ifneq ($(TARGET_BUILD_GAPPS), true)
 PRODUCT_PACKAGES += \
     DialerOverlayLisa
 endif
